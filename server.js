@@ -4,6 +4,6 @@ var whoami = require('./app/whoami');
 
 whoami(app);
 
-app.listen(80,function(){
+app.listen(process.env.PORT || 3000 || 8080,function(){
     console.log("App listening on port 8080");
 });
