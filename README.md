@@ -8,5 +8,5 @@ Created by sg11
 
 ##App Location:
 ```url
-https://header-parser-sng11.c9users.io/whoami
+http://sgwhoami.azurewebsites.net/whoami
 ```
